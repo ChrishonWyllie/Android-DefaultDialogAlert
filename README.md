@@ -4,6 +4,6 @@ Quick example showcasing the defaul dialog popup alert. Useful for prompting use
 <br />
 <br />
 <div id="images">
-<img style="display: inline; margin: 0 5px;" src="img1.png" width="540" height="960" />
-<img style="display: inline; margin: 0 5px;" src="img2.png" width="540" height="960" />
+<img style="display: inline; margin: 0 5px;" src="img1.png" width="360" height="640" />
+<img style="display: inline; margin: 0 5px;" src="img2.png" width="360" height="640" />
 </div>
